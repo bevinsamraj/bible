@@ -17,7 +17,6 @@
   <img src="image/1.png" alt="Home Screen" width="200">
   <img src="image/2.png" alt="chapter" width="200">
   <img src="image/3.png" alt="verse" width="200">
-  <img src="image/4.png" alt="search" width="200">
   <img src="image/5.png" alt="stat" width="200">
  
 </p>
