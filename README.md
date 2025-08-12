@@ -1,16 +1,56 @@
-# bible
+# 📖 Flutter Bible App
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/logo.png" alt="Flutter Bible App Logo" width="120" height="120">
+</p>
 
-## Getting Started
+<p align="center">
+  <b>A modern, feature-rich Bible app built with Flutter</b><br>
+  Light/Dark modes • Multiple Versions • Audio Bible • Custom Fonts
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="200">
+  <img src="assets/screenshots/dark_mode.png" alt="Dark Mode" width="200">
+  <img src="assets/screenshots/audio.png" alt="Audio Bible" width="200">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 📚 **4 Bible Versions** – Easily switch between translations  
+- 🌗 **Light & Dark Modes** – Read comfortably in any environment  
+- 🔊 **Audio Bible** – Listen to scripture on the go  
+- 🔠 **Custom Font Sizes** – Adjustable for better readability  
+- ⚡ **Optimized Performance** – Smooth navigation and quick loading  
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **State Management:** Provider / Riverpod (update if needed)  
+- **Platform:** Android  
+
+---
+
+## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/bevinsamraj/Bible.git
+
+# Navigate into the project directory
+cd Bible
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
