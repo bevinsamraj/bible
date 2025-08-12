@@ -1,7 +1,7 @@
 <!-- Header with logo + name inline -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="64" height="64" style="vertical-align: middle;"/>
-  <span style="font-size: 2.2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">Flutter Bible App</span>
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="90" height="90" style="vertical-align: middle;"/>
+  <span style="font-size: 2.4em; font-weight: bold; vertical-align: middle; margin-left: 12px;">Flutter Bible App</span>
 </p>
 
 <p align="center">
@@ -16,16 +16,6 @@
   <img src="https://img.shields.io/badge/License-MIT-informational" alt="License">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
 </p>
-
----
-
-## 📬 Contact
-
-**Suresh J**  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
-🐙 GitHub: [github.com/bevinsamraj](https://github.com/bevinsamraj)  
-🌐 Website: [your-website.com](https://your-website.com)
 
 ---
 
