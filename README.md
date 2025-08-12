@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="72" height="72" />
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="128" height="128" />
 </p>
 
 <h1 align="center">Flutter Bible App</h1>
