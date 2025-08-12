@@ -1,35 +1,45 @@
-# 📖 Flutter Bible App
+<!-- Header -->
+<p align="center">
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="72" height="72" />
+</p>
+
+<h1 align="center">Flutter Bible App</h1>
 
 <p align="center">
-  <img src="android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="120" height="120">
+  <em>A modern, fast, and elegant Bible reader for Android built with Flutter</em>
 </p>
 
 <p align="center">
-  <b>A modern, feature-rich Bible app built with Flutter</b><br>
-  Light/Dark modes • Multiple Versions • Audio Bible • Custom Fonts
-</p>
-
----
-
-## 📱 Screenshots
-
-<p align="center">
-  <img src="image/1.png" alt="Home Screen" width="200">
-  <img src="image/2.png" alt="chapter" width="200">
-  <img src="image/3.png" alt="verse" width="200">
-  <img src="image/5.png" alt="stat" width="200">
- 
+  <!-- Badges -->
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-3.x-blue.svg?logo=flutter" alt="Flutter"></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-3.x-00B4AB.svg?logo=dart" alt="Dart"></a>
+  <img src="https://img.shields.io/badge/Platform-Android-success" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-informational" alt="License">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="PRs Welcome">
 </p>
 
 ---
 
-## ✨ Features
+## ✨ Highlights
 
-- 📚 **4 Bible Versions** – Easily switch between translations  
-- 🌗 **Light & Dark Modes** – Read comfortably in any environment  
-- 🔊 **Audio Bible** – Listen to scripture on the go  
-- 🔠 **Custom Font Sizes** – Adjustable for better readability  
-- ⚡ **Optimized Performance** – Smooth navigation and quick loading  
+- 📚 **Multiple Bible Versions** – Seamless switching across translations  
+- 🌗 **Light & Dark Modes** – Comfortable reading anytime  
+- 🔊 **Audio Bible** – Listen to scriptures on the go  
+- 🔠 **Custom Fonts & Sizes** – Fine-tuned readability  
+- ⚡ **Snappy Performance** – Smooth navigation & instant load  
+- 🔎 **Search & Quick Jump** – Find books/chapters/verses fast *(optional: describe your UX)*  
+- 🔖 **Bookmarks & Notes** – Save and reflect on verses *(if enabled in app)*
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="image/1.png" alt="Home" width="220">
+  <img src="image/2.png" alt="Chapter" width="220">
+  <img src="image/3.png" alt="Verse" width="220">
+  <img src="image/5.png" alt="Stats" width="220">
+</p>
 
 ---
 
@@ -37,22 +47,21 @@
 
 - **Framework:** Flutter  
 - **Language:** Dart  
-- **State Management:** Provider / Riverpod (update if needed)  
-- **Platform:** Android  
+- **State Management:** Provider / Riverpod *(pick the one you use and update here)*  
+- **Audio:** just_audio / audioplayers *(update to actual)*  
+- **Storage:** SharedPreferences / Hive *(update to actual)*
 
 ---
 
-## 🚀 Installation
+## 🚀 Quick Start
 
 ```bash
 # Clone the repository
 git clone https://github.com/bevinsamraj/Bible.git
-
-# Navigate into the project directory
 cd Bible
 
 # Install dependencies
 flutter pub get
 
-# Run the app
+# Run
 flutter run
