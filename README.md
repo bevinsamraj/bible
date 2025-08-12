@@ -28,3 +28,49 @@
 🌐 Website: [your-website.com](https://your-website.com)
 
 ---
+
+## ✨ Highlights
+
+- 📚 **Multiple Bible Versions** – Seamless switching across translations  
+- 🌗 **Light & Dark Modes** – Comfortable reading anytime  
+- 🔊 **Audio Bible** – Listen to scriptures on the go  
+- 🔠 **Custom Fonts & Sizes** – Fine-tuned readability  
+- ⚡ **Snappy Performance** – Smooth navigation & instant load  
+- 🔎 **Search & Quick Jump** – Find books/chapters/verses fast  
+- 🔖 **Bookmarks & Notes** – Save and reflect on verses  
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="image/1.png" alt="Home" width="220">
+  <img src="image/2.png" alt="Chapter" width="220">
+  <img src="image/3.png" alt="Verse" width="220">
+  <img src="image/5.png" alt="Stats" width="220">
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **State Management:** Provider / Riverpod *(update to actual)*  
+- **Audio:** just_audio / audioplayers *(update to actual)*  
+- **Storage:** SharedPreferences / Hive *(update to actual)*
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/bevinsamraj/Bible.git
+cd Bible
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
