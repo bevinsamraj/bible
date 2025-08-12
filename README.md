@@ -1,9 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="72" height="72" />
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="256" height="256" />
 </p>
 
-<h1 align="center">Flutter Bible App</h1>
+<h1 align="center">HLM 04 Bible App</h1>
 
 <p align="center">
   <em>A modern, fast, and elegant Bible reader for Android built with Flutter</em>
