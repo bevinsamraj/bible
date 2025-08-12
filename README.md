@@ -14,7 +14,7 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="bible/image/1.png" alt="Home Screen" width="200">
+  <img src="image/1.png" alt="Home Screen" width="200">
   <img src="assets/screenshots/dark_mode.png" alt="Dark Mode" width="200">
   <img src="assets/screenshots/audio.png" alt="Audio Bible" width="200">
 </p>
