@@ -1,9 +1,8 @@
-<!-- Header -->
+<!-- Header with logo + name inline -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="256" height="256" />
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="64" height="64" style="vertical-align: middle;"/>
+  <span style="font-size: 2.2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">Flutter Bible App</span>
 </p>
-
-<h1 align="center">Flutter Bible App</h1>
 
 <p align="center">
   <em>A modern, fast, and elegant Bible reader for Android built with Flutter</em>
@@ -20,48 +19,12 @@
 
 ---
 
-## ✨ Highlights
+## 📬 Contact
 
-- 📚 **Multiple Bible Versions** – Seamless switching across translations  
-- 🌗 **Light & Dark Modes** – Comfortable reading anytime  
-- 🔊 **Audio Bible** – Listen to scriptures on the go  
-- 🔠 **Custom Fonts & Sizes** – Fine-tuned readability  
-- ⚡ **Snappy Performance** – Smooth navigation & instant load  
-- 🔎 **Search & Quick Jump** – Find books/chapters/verses fast *(optional: describe your UX)*  
-- 🔖 **Bookmarks & Notes** – Save and reflect on verses *(if enabled in app)*
+**Suresh J**  
+📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
+🐙 GitHub: [github.com/bevinsamraj](https://github.com/bevinsamraj)  
+🌐 Website: [your-website.com](https://your-website.com)
 
 ---
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="image/1.png" alt="Home" width="220">
-  <img src="image/2.png" alt="Chapter" width="220">
-  <img src="image/3.png" alt="Verse" width="220">
-  <img src="image/5.png" alt="Stats" width="220">
-</p>
-
----
-
-## 🛠 Tech Stack
-
-- **Framework:** Flutter  
-- **Language:** Dart  
-- **State Management:** Provider / Riverpod *(pick the one you use and update here)*  
-- **Audio:** just_audio / audioplayers *(update to actual)*  
-- **Storage:** SharedPreferences / Hive *(update to actual)*
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/bevinsamraj/Bible.git
-cd Bible
-
-# Install dependencies
-flutter pub get
-
-# Run
-flutter run
