@@ -1,8 +1,9 @@
-<!-- Header with logo + name inline -->
+<!-- Header -->
 <p align="center">
-  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="90" height="90" style="vertical-align: middle;"/>
-  <span style="font-size: 2.4em; font-weight: bold; vertical-align: middle; margin-left: 12px;">Flutter Bible App</span>
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png" alt="Flutter Bible App Logo" width="72" height="72" />
 </p>
+
+<h1 align="center">Flutter Bible App</h1>
 
 <p align="center">
   <em>A modern, fast, and elegant Bible reader for Android built with Flutter</em>
@@ -26,8 +27,8 @@
 - 🔊 **Audio Bible** – Listen to scriptures on the go  
 - 🔠 **Custom Fonts & Sizes** – Fine-tuned readability  
 - ⚡ **Snappy Performance** – Smooth navigation & instant load  
-- 🔎 **Search & Quick Jump** – Find books/chapters/verses fast  
-- 🔖 **Bookmarks & Notes** – Save and reflect on verses  
+- 🔎 **Search & Quick Jump** – Find books/chapters/verses fast *(optional: describe your UX)*  
+- 🔖 **Bookmarks & Notes** – Save and reflect on verses *(if enabled in app)*
 
 ---
 
@@ -46,7 +47,7 @@
 
 - **Framework:** Flutter  
 - **Language:** Dart  
-- **State Management:** Provider / Riverpod *(update to actual)*  
+- **State Management:** Provider / Riverpod *(pick the one you use and update here)*  
 - **Audio:** just_audio / audioplayers *(update to actual)*  
 - **Storage:** SharedPreferences / Hive *(update to actual)*
 
@@ -62,5 +63,5 @@ cd Bible
 # Install dependencies
 flutter pub get
 
-# Run the app
+# Run
 flutter run
